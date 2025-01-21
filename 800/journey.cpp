@@ -17,7 +17,6 @@ int main() {
   	 int d = n / sum*3;
   	 if(n%sum==0){
   	 	cout<<d<<endl;			
-  	 	
   	 }
   	 else if (n % sum <= a){
   	 	cout<<d+1<<endl;
