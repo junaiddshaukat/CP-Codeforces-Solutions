@@ -16,6 +16,7 @@ int main()
     cin >> t;
     while (t--)
     {
+        //fuction call for the solve function
         solve();
     }
 
